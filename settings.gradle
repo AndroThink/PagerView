@@ -1,0 +1,2 @@
+include ':pagerview'
+rootProject.name='ViewPager'
